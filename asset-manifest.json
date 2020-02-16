@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/Porftfolio-2.0/static/css/main.3184b3b4.chunk.css",
-    "main.js": "/Porftfolio-2.0/static/js/main.bb81a64d.chunk.js",
-    "main.js.map": "/Porftfolio-2.0/static/js/main.bb81a64d.chunk.js.map",
+    "main.css": "/Porftfolio-2.0/static/css/main.91c47adf.chunk.css",
+    "main.js": "/Porftfolio-2.0/static/js/main.1742d609.chunk.js",
+    "main.js.map": "/Porftfolio-2.0/static/js/main.1742d609.chunk.js.map",
     "runtime-main.js": "/Porftfolio-2.0/static/js/runtime-main.c55d22ab.js",
     "runtime-main.js.map": "/Porftfolio-2.0/static/js/runtime-main.c55d22ab.js.map",
     "static/css/2.299a5230.chunk.css": "/Porftfolio-2.0/static/css/2.299a5230.chunk.css",
-    "static/js/2.7107053b.chunk.js": "/Porftfolio-2.0/static/js/2.7107053b.chunk.js",
-    "static/js/2.7107053b.chunk.js.map": "/Porftfolio-2.0/static/js/2.7107053b.chunk.js.map",
+    "static/js/2.4b9269ae.chunk.js": "/Porftfolio-2.0/static/js/2.4b9269ae.chunk.js",
+    "static/js/2.4b9269ae.chunk.js.map": "/Porftfolio-2.0/static/js/2.4b9269ae.chunk.js.map",
     "index.html": "/Porftfolio-2.0/index.html",
-    "precache-manifest.7afff0de30a76cf2f1c5dc6f33e0460a.js": "/Porftfolio-2.0/precache-manifest.7afff0de30a76cf2f1c5dc6f33e0460a.js",
+    "precache-manifest.42ca06380e38f09f5b29a68dacfb84a3.js": "/Porftfolio-2.0/precache-manifest.42ca06380e38f09f5b29a68dacfb84a3.js",
     "service-worker.js": "/Porftfolio-2.0/service-worker.js",
     "static/css/2.299a5230.chunk.css.map": "/Porftfolio-2.0/static/css/2.299a5230.chunk.css.map",
-    "static/css/main.3184b3b4.chunk.css.map": "/Porftfolio-2.0/static/css/main.3184b3b4.chunk.css.map",
-    "static/js/2.7107053b.chunk.js.LICENSE.txt": "/Porftfolio-2.0/static/js/2.7107053b.chunk.js.LICENSE.txt",
-    "static/media/aboutpic.jpg": "/Porftfolio-2.0/static/media/aboutpic.90673f19.jpg",
+    "static/css/main.91c47adf.chunk.css.map": "/Porftfolio-2.0/static/css/main.91c47adf.chunk.css.map",
+    "static/js/2.4b9269ae.chunk.js.LICENSE.txt": "/Porftfolio-2.0/static/js/2.4b9269ae.chunk.js.LICENSE.txt",
+    "static/media/aboutpic.jpg": "/Porftfolio-2.0/static/media/aboutpic.1ee0dd30.jpg",
     "static/media/Navigation.css": "/Porftfolio-2.0/static/media/kari-shea-1SAnrIxw5OY-unsplash.fdecfc11.jpg",
-    "static/media/logo.png": "/Porftfolio-2.0/static/media/logo.a167110c.png"
+    "static/media/logo.png": "/Porftfolio-2.0/static/media/logo.a167110c.png",
+    "static/media/proj_1.png": "/Porftfolio-2.0/static/media/proj_1.cf207513.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c55d22ab.js",
     "static/css/2.299a5230.chunk.css",
-    "static/js/2.7107053b.chunk.js",
-    "static/css/main.3184b3b4.chunk.css",
-    "static/js/main.bb81a64d.chunk.js"
+    "static/js/2.4b9269ae.chunk.js",
+    "static/css/main.91c47adf.chunk.css",
+    "static/js/main.1742d609.chunk.js"
   ]
 }
