@@ -1,12 +1,19 @@
-.about_me {
-    height: 250px;
-    width: 200px;
-    border-radius: 30%;
+.avenir {
+    font-family: 'avenir next', avenir,
+                 sans-serif;
+  }
+
+.washed-blue { 
+    color: #F6FFFE; 
 }
 
-@media only screen and (max-width: 600px) {
-    .about_me{
-        height: 100px;
-        width: 100px;
-    }
+.bg-navy { 
+    background-color: #001B44; 
+}
+
+#me-pic {
+    height: 20em;
+    width: auto;
+    border-radius: 4rem;
+    border: 3px solid #357edd;
 }
