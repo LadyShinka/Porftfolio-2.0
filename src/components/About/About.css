@@ -10,3 +10,28 @@
 .bg-navy { 
     background-color: #001B44; 
 }
+
+#me-pic {
+    height: 20em;
+    width: auto;
+    border-radius: 4rem;
+    border: 3px solid #357edd;
+}
+
+.quote {
+    position: relative;
+    font-family: 'Sanchez', serif;
+    font-size: 2.4em;
+    line-height: 1.5em;
+    font-style: italic;
+  }
+  .quote:before {
+    content: '\201C';
+    position: absolute;
+    top: 0.25em;
+    left: -0.15em;
+    color: #e6e6e6;
+    font-size: 6em;
+    z-index: -1;
+  }
+}
