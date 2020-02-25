@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Porftfolio-2.0/static/css/main.1f900ec6.chunk.css",
-    "main.js": "/Porftfolio-2.0/static/js/main.97c89036.chunk.js",
-    "main.js.map": "/Porftfolio-2.0/static/js/main.97c89036.chunk.js.map",
+    "main.css": "/Porftfolio-2.0/static/css/main.e3008ed8.chunk.css",
+    "main.js": "/Porftfolio-2.0/static/js/main.fcb3d411.chunk.js",
+    "main.js.map": "/Porftfolio-2.0/static/js/main.fcb3d411.chunk.js.map",
     "runtime-main.js": "/Porftfolio-2.0/static/js/runtime-main.c55d22ab.js",
     "runtime-main.js.map": "/Porftfolio-2.0/static/js/runtime-main.c55d22ab.js.map",
     "static/css/2.299a5230.chunk.css": "/Porftfolio-2.0/static/css/2.299a5230.chunk.css",
-    "static/js/2.ab929cb4.chunk.js": "/Porftfolio-2.0/static/js/2.ab929cb4.chunk.js",
-    "static/js/2.ab929cb4.chunk.js.map": "/Porftfolio-2.0/static/js/2.ab929cb4.chunk.js.map",
+    "static/js/2.f696de31.chunk.js": "/Porftfolio-2.0/static/js/2.f696de31.chunk.js",
+    "static/js/2.f696de31.chunk.js.map": "/Porftfolio-2.0/static/js/2.f696de31.chunk.js.map",
     "index.html": "/Porftfolio-2.0/index.html",
-    "precache-manifest.b44f7df460cde61a65b9bb27b107e403.js": "/Porftfolio-2.0/precache-manifest.b44f7df460cde61a65b9bb27b107e403.js",
+    "precache-manifest.9131cb7e8106737003f0d44bb3818917.js": "/Porftfolio-2.0/precache-manifest.9131cb7e8106737003f0d44bb3818917.js",
     "service-worker.js": "/Porftfolio-2.0/service-worker.js",
     "static/css/2.299a5230.chunk.css.map": "/Porftfolio-2.0/static/css/2.299a5230.chunk.css.map",
-    "static/css/main.1f900ec6.chunk.css.map": "/Porftfolio-2.0/static/css/main.1f900ec6.chunk.css.map",
-    "static/js/2.ab929cb4.chunk.js.LICENSE.txt": "/Porftfolio-2.0/static/js/2.ab929cb4.chunk.js.LICENSE.txt",
+    "static/css/main.e3008ed8.chunk.css.map": "/Porftfolio-2.0/static/css/main.e3008ed8.chunk.css.map",
+    "static/js/2.f696de31.chunk.js.LICENSE.txt": "/Porftfolio-2.0/static/js/2.f696de31.chunk.js.LICENSE.txt",
     "static/media/Octocat.png": "/Porftfolio-2.0/static/media/Octocat.ef468e27.png",
+    "static/media/github.png": "/Porftfolio-2.0/static/media/github.a2e30507.png",
+    "static/media/instagram.png": "/Porftfolio-2.0/static/media/instagram.5c570427.png",
     "static/media/javascript.png": "/Porftfolio-2.0/static/media/javascript.6a4c201c.png",
     "static/media/Navigation.css": "/Porftfolio-2.0/static/media/kari-shea-1SAnrIxw5OY-unsplash.fdecfc11.jpg",
     "static/media/logo.png": "/Porftfolio-2.0/static/media/logo.a167110c.png",
@@ -35,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.c55d22ab.js",
     "static/css/2.299a5230.chunk.css",
-    "static/js/2.ab929cb4.chunk.js",
-    "static/css/main.1f900ec6.chunk.css",
-    "static/js/main.97c89036.chunk.js"
+    "static/js/2.f696de31.chunk.js",
+    "static/css/main.e3008ed8.chunk.css",
+    "static/js/main.fcb3d411.chunk.js"
   ]
 }

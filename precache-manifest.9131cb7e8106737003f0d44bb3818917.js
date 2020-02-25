@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce3177d91ce3ac6c7b7636692fbf4fae",
+    "revision": "b8dc75421914b326cf6c9f000f4c194a",
     "url": "/Porftfolio-2.0/index.html"
   },
   {
-    "revision": "a82284aaa52fe57b4171",
+    "revision": "5f95a57d84b62f0f2129",
     "url": "/Porftfolio-2.0/static/css/2.299a5230.chunk.css"
   },
   {
-    "revision": "c3082b35d30be69fbef1",
-    "url": "/Porftfolio-2.0/static/css/main.1f900ec6.chunk.css"
+    "revision": "e4f50936a7ef9a4bebdf",
+    "url": "/Porftfolio-2.0/static/css/main.e3008ed8.chunk.css"
   },
   {
-    "revision": "a82284aaa52fe57b4171",
-    "url": "/Porftfolio-2.0/static/js/2.ab929cb4.chunk.js"
+    "revision": "5f95a57d84b62f0f2129",
+    "url": "/Porftfolio-2.0/static/js/2.f696de31.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/Porftfolio-2.0/static/js/2.ab929cb4.chunk.js.LICENSE.txt"
+    "url": "/Porftfolio-2.0/static/js/2.f696de31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3082b35d30be69fbef1",
-    "url": "/Porftfolio-2.0/static/js/main.97c89036.chunk.js"
+    "revision": "e4f50936a7ef9a4bebdf",
+    "url": "/Porftfolio-2.0/static/js/main.fcb3d411.chunk.js"
   },
   {
     "revision": "79f2b3cdf3d6995b31b7",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef468e275a2c13d0bc7156549261fde6",
     "url": "/Porftfolio-2.0/static/media/Octocat.ef468e27.png"
+  },
+  {
+    "revision": "a2e305076906f8ae31301e0e933f54de",
+    "url": "/Porftfolio-2.0/static/media/github.a2e30507.png"
+  },
+  {
+    "revision": "5c570427ee23f69853d28aec805eee79",
+    "url": "/Porftfolio-2.0/static/media/instagram.5c570427.png"
   },
   {
     "revision": "6a4c201cef84c174d0d93923f26b168c",
