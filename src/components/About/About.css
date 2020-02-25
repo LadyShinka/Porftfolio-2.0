@@ -25,7 +25,8 @@
     line-height: 1.5em;
     font-style: italic;
   }
-  .quote:before {
+
+.quote:before {
     content: '\201C';
     position: absolute;
     top: 0.25em;
@@ -34,4 +35,7 @@
     font-size: 6em;
     z-index: -1;
   }
-}
+
+  .text_shadow {
+    text-shadow: 1.5px 1.5px grey;
+  }
