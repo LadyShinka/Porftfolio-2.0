@@ -9,7 +9,7 @@ class About extends Component {
     render() {
         return(
             <Fragment>
-                <div className="center ph5-ns pt5">
+                <div className="center ph5-ns pt5 pb5">
                     <blockquote className="quote">
                         Be kind whenever possible. It is always possible.
                     </blockquote>
