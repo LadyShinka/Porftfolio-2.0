@@ -8,7 +8,6 @@ import Shopify from './shopify.png';
 import Reactlogo from './react.png';
 import Reduxlogo from './redux.png';
 import Jslogo from './javascript.png';
-import 'tachyons';
 
 
 class Contact extends Component {

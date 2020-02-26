@@ -3,7 +3,6 @@ import Linkedin from './linkedin.png';
 import Instagram from './instagram.png';
 import Github from './github.png';
 import Copyright from './copyright.png';
-import 'tachyons';
 
 class Contact extends Component {
     render() {
