@@ -23,7 +23,7 @@ class About extends Component {
                             </Tilt>
                         </div>
                         </div>
-                        <div className="tl lh-copy fl w-100 w-two-thirds-ns pa2 ph3-ns mw8-l">
+                        <div id="About" className="tl lh-copy fl w-100 w-two-thirds-ns pa2 ph3-ns mw8-l">
                         <div className="near-black bg-silver f4-ns">
                             <h2 className="hover-blue text_shadow">About Me</h2>
                             <p>I am a fullstack developer based in UK. I've always been a creative person who loves to bring ideas to life. 

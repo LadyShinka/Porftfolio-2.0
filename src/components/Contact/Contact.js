@@ -9,7 +9,7 @@ class Contact extends Component {
     render() {
         return(
             <Fragment>
-                <div className="mw10 center near-black bg-silver avenir pb0 mb0">
+                <div id="Contact" className="mw10 center near-black bg-silver avenir pb0 mb0">
                     <div className="fl w-100 near-black bg-silver avenir br3 mb0 pb0">
                         <h4>Email <a className="f6 link dim lighets-blue" href="p.mariateodora@yahoo.co.uk">p.mariateodora@yahoo.co.uk</a></h4>
                         <a className="link dim mb0 pb0" href="https://www.linkedin.com/in/maria-teodora-pop-64825b156/"><img className="h2 pa3" alt="Connect with me on LinkedIn" src={Linkedin}></img></a>
