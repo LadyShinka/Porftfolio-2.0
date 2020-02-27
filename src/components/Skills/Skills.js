@@ -15,17 +15,17 @@ class Contact extends Component {
         return(
             <Fragment>
                 <div className="mw9 center bg-navy avenir">
-                    <div className="fl w-100 h-75 black bg-navy avenir br3 pb3 mb3">
+                    <div className="fl w-100 h-75-ns h-50 black bg-navy avenir br3 pb3 mb3">
                         <h1 className="dark-grey hover-blue text_shadow">Skills</h1>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Html} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Css} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Nodejs} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Bootstrap} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Wordpress} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Shopify} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Reactlogo} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Reduxlogo} alt="top skill"></img>
-                        <img className="h3 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Jslogo} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Html} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Css} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Nodejs} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Bootstrap} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Wordpress} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Shopify} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Reactlogo} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Reduxlogo} alt="top skill"></img>
+                        <img className="h3-ns h2 pa3 shadow-3 ma3 br3 bg-dark-blue" src={Jslogo} alt="top skill"></img>
                     </div>
                 </div>
             </Fragment>
