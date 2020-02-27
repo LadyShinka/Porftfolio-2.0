@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5846d4f3336adc1fbe8c5ded3ab8b3bd",
+    "revision": "ce56214a70f519714f117d785c96840c",
     "url": "/Porftfolio-2.0/index.html"
   },
   {
-    "revision": "96d8716d32c81ee3762a",
+    "revision": "b69dc7af865013f20e7b",
     "url": "/Porftfolio-2.0/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "f74556e43403e0c63cbb",
+    "revision": "57729a82de194ef51727",
     "url": "/Porftfolio-2.0/static/css/main.37fbacbf.chunk.css"
   },
   {
-    "revision": "96d8716d32c81ee3762a",
-    "url": "/Porftfolio-2.0/static/js/2.3049e17d.chunk.js"
+    "revision": "b69dc7af865013f20e7b",
+    "url": "/Porftfolio-2.0/static/js/2.501511dc.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/Porftfolio-2.0/static/js/2.3049e17d.chunk.js.LICENSE.txt"
+    "url": "/Porftfolio-2.0/static/js/2.501511dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f74556e43403e0c63cbb",
-    "url": "/Porftfolio-2.0/static/js/main.7d29dd6a.chunk.js"
+    "revision": "57729a82de194ef51727",
+    "url": "/Porftfolio-2.0/static/js/main.5991d3f1.chunk.js"
   },
   {
     "revision": "79f2b3cdf3d6995b31b7",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79e070ee7e1348c31c7cb4e253819442",
     "url": "/Porftfolio-2.0/static/media/me-pic.79e070ee.jpg"
+  },
+  {
+    "revision": "0422b0f6d3f44fdefc82be01946e8538",
+    "url": "/Porftfolio-2.0/static/media/monitor.0422b0f6.png"
   },
   {
     "revision": "55e83371dbf50a5f027b1fe31a054ad3",
@@ -98,6 +102,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "600a909b8c476e9fae09b3aad9b64f86",
     "url": "/Porftfolio-2.0/static/media/shopify.600a909b.png"
+  },
+  {
+    "revision": "3aa616396cc2973dd34d0f229d07e13d",
+    "url": "/Porftfolio-2.0/static/media/social-care.3aa61639.png"
+  },
+  {
+    "revision": "1fb02cd662a3f8ad07ff9750e61cdbec",
+    "url": "/Porftfolio-2.0/static/media/talking.1fb02cd6.png"
   },
   {
     "revision": "cb9c8e6e1882ff307c45485bab93be5d",
