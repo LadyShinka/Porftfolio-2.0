@@ -17,14 +17,14 @@ import Shopify from './shopify.png';
 import Reactlogo from './react.png';
 import Reduxlogo from './redux.png';
 import Jslogo from './javascript.png';
-
+// import './Project.css';
 import Tilt from 'react-tilt';
 
 class Projects extends Component {
     render() {
         return(
             <Fragment>
-                <div id="Projects" className="ml6-ns justify-center mt5">
+                <div id="Projects" className="ml6-ns ml4 justify-center mt5">
                     <section className="fl pa3 pa5-ns mt4 br3 mw6">
                         <article className="hide-child relative ba b--black-20 mw5 center shadow-5 br3">
                             <Tilt className="Tilt" options={{ max : 30 }} >

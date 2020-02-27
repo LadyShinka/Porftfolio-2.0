@@ -1,5 +1,8 @@
 import React, { Component, Fragment } from 'react';
 import aboutpic from './me-pic.jpg';
+import Consult from './talking.png';
+import Design from './monitor.png';
+import Customer from './social-care.png';
 import right from'./next.png';
 import left from './back.png';
 import Tilt from 'react-tilt';
@@ -24,14 +27,22 @@ class About extends Component {
                         </div>
                         </div>
                         <div id="About" className="tl lh-copy fl w-100 w-two-thirds-ns pa2 ph3-ns mw8-l">
-                        <div className="near-black bg-silver f4-ns">
+                        <div className="navy bg-silver f5-ns">
                             <h2 className="hover-blue text_shadow">About Me</h2>
                             <p>I am a fullstack developer based in UK. I've always been a creative person who loves to bring ideas to life. 
-                                Being passionate about web development I tend to give 110% to every project while I keep learning new skills and technologies everyday.
                             </p>
                             <p>
-                            A young web developer focused on Front End Web Development with the right set of skills, passion, knowledge, patience and interest to create projects that will make potential customers happy.
-                            I am on the other hand an active person who likes reading, travelling and cats.
+                            A young enthusiastic developer with the right set of skills, passion, knowledge, patience and interest to provide you with:
+                            <li className="list pl5"><img className="h2 pa2" src={Consult} alt="Consultancy"></img>Consultancy</li>
+                            <li className="list pl5"><img className="h2 pa2" src={Design} alt="Design"></img>A website design that is creative, original and genuine</li>
+                            <li className="list pl5"><img className="h2 pa2" src={Customer} alt="Customer Service"></img>Flexibility and consistent communication to ensure all requirements are met</li>
+                            </p>
+                            <p>Focused on delivering good quality customer service along with ingenuity, creativity and dedication.</p>
+                            <hr/>
+                            <h4 className="text_shadow">Personal Profile</h4>
+                            <p>My hobbies involve, but are not limited to, reading, dancing, travelling and spending time outdoors.
+                                With an optimistic personality I strive everyday to improve and contribute.
+                                Love cats, owls, dragons, books, nature, fun.
                             </p>
                         </div>
                         </div>
