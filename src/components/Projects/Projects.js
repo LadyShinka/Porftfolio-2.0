@@ -31,7 +31,7 @@ class Projects extends Component {
                             <img src={project1} className="db" alt="project1" />
                             <div className="pa2 bt b--black-20">
                             <h3 className="f5 db dark-blue hover-blue">Portfolio v1</h3>
-                                <a className="f6 db link dark-blue hover-blue" href="https://google.com">
+                                <a className="f6 db link dark-blue hover-blue" href="https://github.com/LadyShinka/Portfolio">
                                     <img className="h3" src={Octocat} alt="view source code"></img>
                                 </a>
                             <p className="f6 gray mv1">
@@ -41,7 +41,7 @@ class Projects extends Component {
                                 <img className="h2 pa1" src={Bootstrap} alt="used bootstrap to create this project"></img>
                                 <img className="h2 pa1" src={Jslogo} alt="used JavaScript to create this project"></img>
                             </p>
-                            <a className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="https://google.com">View Live</a>
+                            <a className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="https://lit-reef-99807.herokuapp.com/home">View Live</a>
                             </div>
                             </Tilt>
                         </article>
